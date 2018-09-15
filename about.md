@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Malware and bouldering enthusiast.  Performing detection research @ IronNet
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[johnny.nohandle@gmail.com](mailto:johnny.nohandle@gmail.com)
